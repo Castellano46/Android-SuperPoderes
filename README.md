@@ -1,5 +1,5 @@
 ## Práctica para el módulo Android SuperPoderes de KeepCoding.
-En esta práctica desarrollo una pequeña app con Android Studio y lenguaje Kotlin bajo el patrón de diseño MVVM (Model View ViewModel). Para su elaboración nos introducimos por vez primera en **Jetpack Compose**.
+En esta práctica desarrollo una pequeña app con Android Studio y lenguaje Kotlin bajo el patrón de diseño MVVM (Model View ViewModel). Para su elaboración nos introducimos por vez primera en el uso de **Jetpack Compose**.
 
 
 
