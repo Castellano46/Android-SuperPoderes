@@ -37,7 +37,7 @@ Cabe resaltar que dentro del proyecto se encuentra mi **Apikey** y resto de cred
 ---
 Esta App no requiere de Login por parte del usuario ni registrarse de ninguna manera, puesto que expongo mis credenciales de manera pública.
 Por otro lado al ser algo liviano tampoco necesita un equipo muy potente para su ejecución.
-No requiere elementos externos para su uso, únicamente descargaremos el repositorio y procedemos a su ejecución desde Android Studio.
+No requiere elementos externos para su uso, únicamente descargaremos el repositorio y procedemos a su ejecución desde **Android Studio**.
 
 ## Descripción y contexto
 ---
